@@ -1,0 +1,6 @@
+framework module Pods_BoxSwiftTests {
+  umbrella header "Pods-BoxSwiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
